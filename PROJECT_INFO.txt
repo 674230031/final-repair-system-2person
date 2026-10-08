@@ -1,0 +1,27 @@
+FINAL PROJECT
+ชื่อโครงงาน: ระบบแจ้งซ่อมและติดตามงานซ่อมออนไลน์
+ชื่อภาษาอังกฤษ: Online Repair Request and Tracking System
+จำนวนสมาชิก: 2 คน
+
+เทคโนโลยี:
+PHP 8+
+MySQL
+PDO
+Bootstrap 5
+HTML/CSS/JavaScript
+
+ขอบเขต:
+1. ผู้ใช้งานแจ้งซ่อม
+2. อัปโหลดรูปก่อนซ่อม
+3. ช่างรับงานและเริ่มงาน
+4. ช่างบันทึกผลและค่าใช้จ่าย
+5. อัปโหลดรูปหลังซ่อม
+6. Admin จัดการผู้ใช้
+7. Dashboard และรายงาน
+8. ติดตามสถานะงาน
+
+Workflow:
+pending -> accepted -> in_progress -> completed
+
+ไฟล์ฐานข้อมูล:
+database/repair_system.sql
